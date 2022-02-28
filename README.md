@@ -3,4 +3,4 @@
 Olá! Bem vindo ao livro de receitas :wave:
 
 - Estrogonofe de champignon
-- Pavê
+- Pavê de chocolate
